@@ -199,19 +199,6 @@
             ]
         },
         {
-            "dinoType": "Blueprint'/Game/Mods/Additions_Pack/Archelon/Dinos/Archelon_Character_BP.Archelon_Character_BP'",
-            "produces": [
-                {
-                    "intervalSeconds": 300.00,
-                    "alternateItemChance": 0.00,
-                    "items": [
-                        "Blueprint'/AAArchelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae.PrimalItemConsumable_Veggie_TurtleAlgae"
-                    ],
-                    "alternateItems": []
-                }
-            ]
-        },
-        {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP'",
             "produces": [
                 {
@@ -232,32 +219,6 @@
                     "alternateItemChance": 0.00,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'"
-                    ],
-                    "alternateItems": []
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP.BombardierBeetle_Character_BP'",
-            "produces": [
-                {
-                    "intervalSeconds": 300.00,
-                    "alternateItemChance": 0.00,
-                    "items": [
-                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder"
-                    ],
-                    "alternateItems": []
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Flame.BombardierBeetle_Character_BP_Flame'",
-            "produces": [
-                {
-                    "intervalSeconds": 300.00,
-                    "alternateItemChance": 0.00,
-                    "items": [
-                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant"
                     ],
                     "alternateItems": []
                 }
@@ -302,21 +263,6 @@
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
                     ],
                     "alternateItems": []
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/ImprovedPhoenix/Dinos/ImprovedPhoenix_Character_BP.ImprovedPhoenix_Character_BP'",
-            "produces": [
-                {
-                    "intervalSeconds": 240.00,
-                    "alternateItemChance": 0.00,
-                    "items": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
-                    ],
-                    "alternateItems": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
-                    ]
                 }
             ]
         }
