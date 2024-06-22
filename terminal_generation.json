@@ -273,7 +273,7 @@
                     "intervalSeconds": 300.00,
                     "alternateItemChance": 0.00,
                     "items": [
-                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder"
+                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder'"
                     ],
                     "alternateItems": []
                 }
@@ -286,7 +286,7 @@
                     "intervalSeconds": 300.00,
                     "alternateItemChance": 0.00,
                     "items": [
-                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant"
+                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant'"
                     ],
                     "alternateItems": []
                 }
@@ -299,9 +299,91 @@
                     "intervalSeconds": 300.00,
                     "alternateItemChance": 0.00,
                     "items": [
-                        "Blueprint'/AAArchelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae.PrimalItemConsumable_Veggie_TurtleAlgae"
+                        "Blueprint'/AAArchelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae.PrimalItemConsumable_Veggie_TurtleAlgae'"
                     ],
                     "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/ImprovedPhoenix/Dinos/ImprovedPhoenix_Character_BP.ImprovedPhoenix_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 240.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+                    ],
+                    "alternateItems": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/CyrusJumpingSpider/Content/Content/Spider/Jumper/ThoraxSpider_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 300.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'Colossuscorpius/Content/Colossuscorpius/Colossuscorpius_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 240.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable'",
+            "produces": [
+                {
+                    "intervalSeconds": 300.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable'",
+            "produces": [
+                {
+                    "intervalSeconds": 300.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable'",
+            "produces": [
+                {
+                    "intervalSeconds": 240.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+                    ],
+                    "alternateItems": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+                    ]
                 }
             ]
         }
