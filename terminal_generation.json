@@ -265,6 +265,32 @@
                     "alternateItems": []
                 }
             ]
+        },
+        {
+            "dinoType": "Blueprint'/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP.BombardierBeetle_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 300.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Flame.BombardierBeetle_Character_BP_Flame'",
+            "produces": [
+                {
+                    "intervalSeconds": 300.00,
+                    "alternateItemChance": 0.00,
+                    "items": [
+                        "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant"
+                    ],
+                    "alternateItems": []
+                }
+            ]
         }
     ]
 }
